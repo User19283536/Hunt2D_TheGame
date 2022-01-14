@@ -10,15 +10,15 @@ Virus Scan: https://www.virustotal.com/gui/file/65c51ed112f60ff84cd7c11a411e72cf
 
 Note: 4 detections by minor AV companies are false positives. No reputable AV like Kaspersky or Bitdefender finds anything fishy.
 
-Coontrols:
-W to jump
-A - to move left
-D to move right
-Space - to fire
-Q to throw a grenade
-U - to exchange coins for ammunition
-I - to exchange coins for explosives
-P - to exchange coins for gun upgrade - more damage
+Controls: 
+1) W to jump
+2) A - to move left
+3) D to move right
+4) Space - to fire
+5) Q to throw a grenade
+6) U - to exchange coins for ammunition
+7) I - to exchange coins for explosives
+8) P - to exchange coins for gun upgrade - more damage
 
 Pictures from the game:
 
