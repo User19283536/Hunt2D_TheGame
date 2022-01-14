@@ -22,3 +22,11 @@ font: daaams@laposte.net | http://www.sweeep.fr
 ===============================================
 
 All resources are used for non profit, educational purposes.
+
+Pictures from the game:
+
+![0](https://user-images.githubusercontent.com/96263069/149546130-68095437-bca0-44a1-a092-d7d48ebe9a01.png)
+
+![1](https://user-images.githubusercontent.com/96263069/149546166-c27001bb-3672-4b10-9fac-57c48f7fe525.png)
+
+![2](https://user-images.githubusercontent.com/96263069/149546199-d42aa660-4150-413c-9d4e-d403653728fe.png)
