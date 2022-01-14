@@ -1,5 +1,5 @@
 # Hunt2D_TheGame
-A simple 2D videogame inspired by games like Terraria, Fallout Shelter where you play as a pirate fighting his way through a swamp infested with minotaurs and rouge pirates. Game currently supports 4 playable levels and a final "credits" level. 100% written in Python 3.9.7 with Pygame 2.1.0. 
+A simple 2D videogame inspired by games like Terraria, Fallout Shelter where you play as a pirate fighting your way through a swamp infested with minotaurs and rouge pirates. Game currently supports 4 playable levels and a final "credits" level. 100% written in Python 3.9.7 with Pygame 2.1.0. 
 
 Installation:
 1) Download the files as an archive
