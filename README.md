@@ -10,8 +10,6 @@ Uncompiled source files: https://github.com/User19283536/Hunt_2d
 
 Virus Scan: https://www.virustotal.com/gui/file/65c51ed112f60ff84cd7c11a411e72cfada66ca66f76bdca9a06aa9692050ef7/detection
 
-Note: 4 detections by minor AV companies are false positives. No reputable AV like Kaspersky or Bitdefender finds anything fishy.
-
 Controls: 
 1) W to jump
 2) A - to move left
